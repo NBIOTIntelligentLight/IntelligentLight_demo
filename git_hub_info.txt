@@ -1,0 +1,14 @@
+﻿https://github.com/
+用户名：IntelligentLight
+邮箱：175964112@qq.com
+密码：Scsj_2017H2
+
+https://github.com/IntelligentLight/IntelligentLight_demo
+
+ssh-keygen –t rsa –C “175964112@qq.com”,
+
+
+/c/Users/zhaoshuang/.ssh/id_rsa
+
+git config –-global user.name “zs”
+git config –-global user.email “175964112@qq.com”
